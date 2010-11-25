@@ -1,0 +1,5 @@
+*.o
+*.exe
+*.suo
+*.exe.*
+*/Debug/*
